@@ -104,7 +104,6 @@ The frontend runs on `http://localhost:3000` and opens automatically in the brow
 
 ## Useful Endpoints
 
-- `GET /api/health` - Health check
 - `GET /api` - API info
 - `POST /api/auth/login` - Authentication
 - `POST /api/vehicles/park` - Park a vehicle
@@ -118,6 +117,3 @@ The frontend runs on `http://localhost:3000` and opens automatically in the brow
 - The backend enables CORS for `http://localhost:3000` and `http://localhost:3001`.
 - The manual commands above are the reliable way to run the current codebase.
 
-## License
-
-MIT
